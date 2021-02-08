@@ -1,0 +1,60 @@
+[
+  {
+    "MatchDate" : "01-10-2020",
+    "MatchList" : [
+      {
+        "MatchId" : 1,
+        "Team1Id" : 1,
+        "Team2Id" : 2,
+        "Team1" : "Boston",
+        "Team2" : "St. Louis",
+        "MatchTime" : "7:00 PM",
+        "MLTeam1" : "-119",
+        "MLTeam2" : "+150",
+        "FormTeam1": "L,L,L,L,W",
+        "FormTeam2": "L,L,L,L,W"
+      },
+      {
+        "MatchId" : 2,
+        "Team1Id" : 1,
+        "Team2Id" : 2,
+        "Team1" : "Buffalo",
+        "Team2" : "Minnesota",
+        "MatchTime" : "7:00 PM",
+        "MLTeam1" : "-119",
+        "MLTeam2" : "+150",
+        "FormTeam1": "L,L,L,L,W",
+        "FormTeam2": "L,L,L,L,W"
+      }
+    ]
+  },
+  {
+    "MatchDate" : "01-11-2020",
+    "MatchList" : [
+      {
+        "MatchId" : 3,
+        "Team1Id" : 1,
+        "Team2Id" : 2,
+        "Team1" : "Boston",
+        "Team2" : "St. Louis",
+        "MatchTime" : "7:00 PM",
+        "MLTeam1" : "-119",
+        "MLTeam2" : "+150",
+        "FormTeam1": "L,L,L,L,W",
+        "FormTeam2": "L,L,L,L,W"
+      },
+      {
+        "MatchId" : 4,
+        "Team1Id" : 1,
+        "Team2Id" : 2,
+        "Team1" : "Boston",
+        "Team2" : "St. Louis",
+        "MatchTime" : "7:00 PM",
+        "MLTeam1" : "-119",
+        "MLTeam2" : "+150",
+        "FormTeam1": "L,L,L,L,W",
+        "FormTeam2": "L,L,L,L,W"
+      }
+    ]
+  }
+]
